@@ -1,1 +1,0 @@
-# Aaseya-Esri-Connector
